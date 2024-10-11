@@ -1,7 +1,4 @@
 
-Bellek güncellendi
-GitHub profiliniz için etkileyici bir README oluşturmak üzere şu şekilde bir taslak hazırladım:
-
 Merhaba! Ben Engin Aktaş 👋
 Adıyaman Üniversitesi Bilgisayar Mühendisliği 3. sınıf öğrencisi
 🚀 Hakkımda:
