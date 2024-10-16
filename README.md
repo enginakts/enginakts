@@ -1,7 +1,4 @@
 
-Merhaba! Ben Engin Aktaş 👋
-Adıyaman Üniversitesi Bilgisayar Mühendisliği 3. sınıf öğrencisi
-🚀 Hakkımda:
 Merhaba! Ben Engin Aktaş, oyun geliştirme, web tasarımı ve mobil uygulama geliştirme konularında tutkulu bir yazılımcıyım. Şu anda Adıyaman Üniversitesi'nde Bilgisayar Mühendisliği okuyorum ve kariyerimde yeni ufuklara yelken açmayı hedefliyorum.
 
 🌟 Uzmanlık Alanlarım:
