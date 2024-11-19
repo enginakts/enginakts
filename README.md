@@ -1,23 +1,14 @@
 
-Merhaba! Ben Engin Aktaş, oyun geliştirme, web tasarımı ve mobil uygulama geliştirme konularında tutkulu bir yazılımcıyım. Şu anda Adıyaman Üniversitesi'nde Bilgisayar Mühendisliği okuyorum ve kariyerimde yeni ufuklara yelken açmayı hedefliyorum.
+👋 Merhaba! Ben Engin Aktaş, Adıyaman Üniversitesi Bilgisayar Mühendisliği 3. sınıf öğrencisiyim. Teknolojiye olan ilgim, sürekli öğrenme arzum ve yaratıcı projeler üretme tutkusu beni yazılım geliştirme dünyasına yönlendirdi.
 
-🌟 Uzmanlık Alanlarım:
+🎮 Oyun geliştirme, 🌐 web programlama, 🤖 makine öğrenimi ve 🎨 3D modelleme gibi birçok alanda projeler yaparak becerilerimi geliştirmeye çalışıyorum.
+📂 GitHub'daki projelerimde, özellikle Unity tabanlı oyunlar, Python ile veri analizi ve modelleme, ASP.NET Core ile web uygulamaları geliştirme gibi konulara ağırlık veriyorum.
 
-🎮 Unity: 3D offline ve multiplayer oyunlar geliştiriyorum.
-🌐 Web Development: Hem backend hem de frontend alanında çalışmalar yapıyorum.
-📱 Android Development: Mobil uygulamalar tasarlayıp geliştiriyorum.
-🎨 Blender: 3D modelleme ve animasyon üzerinde çalışıyorum.
-🎯 Gelecek Hedeflerim:
+💡 GitHub benim için yalnızca bir kod paylaşım platformu değil; aynı zamanda öğrendiklerimi pratiğe dökerek yazılım dünyasına katkı sağladığım bir alan. Yeni teknolojiler öğrenmek, yaratıcı çözümler geliştirmek ve projelerimi açık kaynak topluluğuyla paylaşmak en büyük motivasyonlarım arasında.
 
-Yurt dışındaki şirketlerde çalışmak ve dünya çapında projelerde yer almak.
-Kendi oyun şirketimi kurup, oyunlarımı Steam gibi platformlarda kullanıcılarla buluşturmak.
-Android uygulamalar ve web siteleri tasarlayıp, kullanıcıların hayatını kolaylaştıracak projeler geliştirmek.
-⚡ İlgi Alanlarım:
+Eğer yazılım dünyasına ilgi duyuyorsanız veya projelerimle ilgili görüşlerinizi paylaşmak isterseniz, iş birliğine her zaman açığım. Birlikte öğrenmek ve gelişmek için buradayım!
 
-Satranç ♟️
-Gezmek ✈️
-Kod yazmak 💻
-📫 Bana Ulaşın:
+🔗 Daha fazla bilgi ve projelerim için:
 
-Instagram: enginakt_s
-Email: enginakt21@gmail.com
+LinkedIn Profilim: [linkedin.com/in/engin-aktas](https://www.linkedin.com/in/engin-akta%C5%9F-8a0a30271/)
+Web Adresim: www.enginakts.com.tr
