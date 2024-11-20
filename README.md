@@ -11,4 +11,6 @@ Eğer yazılım dünyasına ilgi duyuyorsanız veya projelerimle ilgili görüş
 🔗 Daha fazla bilgi ve projelerim için:
 
 LinkedIn Profilim: [linkedin.com/in/engin-aktas](https://www.linkedin.com/in/engin-akta%C5%9F-8a0a30271/)
+
+
 Web Adresim: www.enginakts.com.tr
