@@ -51,21 +51,34 @@ Merhaba! Ben Engin Aktaş. Bilgisayar mühendisliği öğrencisiyim ve yazılım
 
 ---
 
-### 📊 İstatistiklerim:
+### �� İstatistiklerim:
 
+<!-- GitHub Stats Card -->
 <div align="center">
-  <img src="https://github.com/enginakts/enginakts/blob/output/github-contribution-grid-snake.svg" />
-</div>
+  <table>
+    <tr>
+      <td>
+        <img width="400" src="https://github-readme-stats.vercel.app/api?username=enginakts&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" alt="GitHub Stats"/>
+      </td>
+      <td>
+        <img width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=enginakts&theme=github-dark-blue&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=58A6FF&currStreakNum=C9D1D9&sideNums=C9D1D9&currStreakLabel=C9D1D9&sideLabels=C9D1D9&dates=C9D1D9" alt="GitHub Streak"/>
+      </td>
+    </tr>
+  </table>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=enginakts&theme=tokyonight&hide_border=true" />
+  <!-- Most Used Languages -->
+  <img width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=enginakts&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&langs_count=8" alt="Most Used Languages"/>
   
-  <img src="https://github-readme-stats.vercel.app/api?username=enginakts&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0D1117" />
+  <!-- GitHub Activity Graph -->
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=enginakts&theme=github-dark&hide_border=true&bg_color=0D1117&color=58A6FF&line=58A6FF&point=C9D1D9&area=true" alt="Contribution Graph"/>
   
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=enginakts&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact&langs_count=8&bg_color=0D1117" />
+  <!-- Snake Animation -->
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/enginakts/enginakts/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/enginakts/enginakts/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/enginakts/enginakts/output/github-contribution-grid-snake.svg">
+  </picture>
 </div>
-
-<img src="./profile-3d-contrib/profile-night-rainbow.svg" />
 
 ---
 
