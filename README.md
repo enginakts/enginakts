@@ -1,71 +1,90 @@
 <div align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="200"/>
-  <h1>Merhaba! 👋 Ben Bir Bilgisayar Mühendisliği Öğrencisiyim</h1>
+  <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="500"/>
 </div>
 
-## 👨‍💻 Hakkımda
+<h1 align="center">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+  Merhaba, Ben Bir Bilgisayar Mühendisliği Öğrencisiyim!
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+</h1>
 
-- 🎓 Bilgisayar Mühendisliği öğrencisiyim
-- 🌱 Sürekli öğrenmeye ve kendimi geliştirmeye odaklıyım
-- 💻 Web geliştirme ve yapay zeka alanlarında projeler geliştiriyorum
-- 🔭 Yeni teknolojileri öğrenmeye her zaman açığım
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=your-github-username&style=flat-square&color=blue" alt=""/>
+</div>
 
-## 🛠️ Teknoloji Yığınım
-
-### 💻 Programlama Dilleri & Frameworks
-
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original.svg" alt="dotnet" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-</p>
-
-### 🧠 Yapay Zeka & Makine Öğrenmesi
-
-<p align="left">
-  <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-</p>
-
-## 📊 GitHub İstatistiklerim
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KULLANICI_ADINIZ&show_icons=true&theme=radical" alt="github istatistikleri"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KULLANICI_ADINIZ&theme=radical" alt="github streak"/>
-</p>
-
-## 🚀 Projelerim
-
-- [Proje Adı 1](link) - Kısa açıklama
-- [Proje Adı 2](link) - Kısa açıklama
-- [Proje Adı 3](link) - Kısa açıklama
-
-## 📫 Benimle İletişime Geçin
-
-<p align="left">
-  <a href="https://linkedin.com/in/LINKEDIN_KULLANICI_ADINIZ" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" />
-  </a>
-  <a href="https://twitter.com/TWITTER_KULLANICI_ADINIZ" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="twitter" height="30" width="40" />
-  </a>
-  <a href="mailto:EMAİL_ADRESİNİZ">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/email.svg" alt="email" height="30" width="40" />
-  </a>
-</p>
-
-## 📈 Ziyaretçi Sayacı
-
-<p align="center">
-  <img src="https://profile-counter.glitch.me/KULLANICI_ADINIZ/count.svg" alt="Ziyaretçi Sayacı"/>
-</p>
+<div align="center">
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="400" height="200"/>
+</div>
 
 ---
-⭐️ [KULLANICI_ADINIZ](https://github.com/KULLANICI_ADINIZ)
+
+### 👨‍💻 Hakkımda:
+
+- 🎓 Bilgisayar Mühendisliği öğrencisiyim
+- 🌱 Şu anda ASP.NET Core ve Yapay Zeka üzerine çalışıyorum
+- ⚡ Boş zamanlarımda yeni teknolojiler öğreniyorum
+- 📫 Bana ulaşmak için: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](your-linkedin-url)
+
+---
+
+### 🛠 Teknolojiler ve Araçlar:
+
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="C#" alt="C#" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/dotnetcore/dotnetcore-original.svg" title=".NET Core" alt=".NET Core" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original.svg" title="TensorFlow" alt="TensorFlow" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40"/>
+</div>
+
+---
+
+### 🔥 İstatistiklerim:
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=your-github-username&theme=dark&background=000000)](https://git.io/streak-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-languages/?username=your-github-username&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
+---
+
+### 🚀 Projelerim:
+
+<div align="center">
+  <a href="your-project-1-link">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=your-github-username&repo=your-repository-1&theme=dark" />
+  </a>
+  <a href="your-project-2-link">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=your-github-username&repo=your-repository-2&theme=dark" />
+  </a>
+</div>
+
+---
+
+### 📫 İletişim:
+
+<div align="center">
+  <a href="your-linkedin-url">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="your-twitter-url">
+    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  </a>
+  <a href="mailto:your-email">
+    <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/>
+  </a>
+</div>
+
+---
+
+### 🎯 Aktivite Grafiği:
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=your-github-username&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+---
+
+<div align="center">
+  <img src="https://profile-counter.glitch.me/your-github-username/count.svg"/>
+</div>
