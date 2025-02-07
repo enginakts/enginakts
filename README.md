@@ -29,7 +29,7 @@ Merhaba! Ben Engin Aktaş. Bilgisayar mühendisliği öğrencisiyim ve yazılım
 - 🎓 Bilgisayar Mühendisliği eğitimime devam ediyorum
 - 🌱 ASP.NET Core, Yapay Zeka ve Derin Öğrenme alanlarında kendimi geliştiriyorum
 - ⚡ Web teknolojileri ve makine öğrenmesi projelerinde aktif olarak çalışıyorum
-- 📫 Benimle iletişime geçmek için: [![Linkedin Badge](https://img.shields.io/badge/-EnginAktaş-blue?style=flat&logo=Linkedin&logoColor=white)](your-linkedin-url)
+- 📫 Benimle iletişime geçmek için: [![Linkedin Badge](https://img.shields.io/badge/-EnginAktaş-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/enginakt-s/)
 
 ---
 
@@ -92,14 +92,11 @@ Merhaba! Ben Engin Aktaş. Bilgisayar mühendisliği öğrencisiyim ve yazılım
 ### 📫 İletişim:
 
 <div align="center">
-  <a href="your-linkedin-url">
+  <a href="[your-linkedin-url](https://www.linkedin.com/in/enginakt-s/)">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="your-twitter-url">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-  </a>
-  <a href="mailto:your-email">
-    <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/>
+  <a href="mailto:enginakt21@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/>
   </a>
 </div>
 
