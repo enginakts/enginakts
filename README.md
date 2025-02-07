@@ -48,11 +48,31 @@ Merhaba! Ben Engin Aktaş. Bilgisayar mühendisliği öğrencisiyim ve yazılım
 
 ---
 
-### 🔥 İstatistiklerim:
+### 📊 İstatistiklerim:
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=your-github-username&theme=dark&background=000000)](https://git.io/streak-stats)
+<div align="center">
+  <a href="https://git.io/streak-stats">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=enginakts&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  </a>
+</div>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-languages/?username=your-github-username&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+<div align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=enginakts&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Engin's GitHub stats" />
+  </a>
+</div>
+
+<div align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=enginakts&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  </a>
+</div>
+
+<div align="center">
+  <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=enginakts&theme=tokyo-night&hide_border=true" alt="Activity Graph" />
+  </a>
+</div>
 
 ---
 
