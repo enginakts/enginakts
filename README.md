@@ -92,7 +92,7 @@ Merhaba! Ben Engin Aktaş. Bilgisayar mühendisliği öğrencisiyim ve yazılım
 ### 📫 İletişim:
 
 <div align="center">
-  <a href="[your-linkedin-url](https://www.linkedin.com/in/enginakt-s/)">
+  <a href="https://www.linkedin.com/in/enginakt-s/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="mailto:enginakt21@gmail.com">
