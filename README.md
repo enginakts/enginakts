@@ -4,9 +4,13 @@
 
 <h1 align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-  Merhaba, Ben Bir Bilgisayar Mühendisliği Öğrencisiyim!
+  Merhaba, Ben Engin Aktaş
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
+
+<h3 align="center">
+  Bilgisayar Mühendisliği Öğrencisi | Yazılım Geliştirici | AI Meraklısı
+</h3>
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=your-github-username&style=flat-square&color=blue" alt=""/>
@@ -20,10 +24,12 @@
 
 ### 👨‍💻 Hakkımda:
 
-- 🎓 Bilgisayar Mühendisliği öğrencisiyim
-- 🌱 Şu anda ASP.NET Core ve Yapay Zeka üzerine çalışıyorum
-- ⚡ Boş zamanlarımda yeni teknolojiler öğreniyorum
-- 📫 Bana ulaşmak için: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](your-linkedin-url)
+Merhaba! Ben Engin Aktaş. Bilgisayar mühendisliği öğrencisiyim ve yazılım geliştirme tutkusuyla çalışıyorum.
+
+- 🎓 Bilgisayar Mühendisliği eğitimime devam ediyorum
+- 🌱 ASP.NET Core, Yapay Zeka ve Derin Öğrenme alanlarında kendimi geliştiriyorum
+- ⚡ Web teknolojileri ve makine öğrenmesi projelerinde aktif olarak çalışıyorum
+- 📫 Benimle iletişime geçmek için: [![Linkedin Badge](https://img.shields.io/badge/-EnginAktaş-blue?style=flat&logo=Linkedin&logoColor=white)](your-linkedin-url)
 
 ---
 
