@@ -42,38 +42,99 @@ Merhaba! Ben Engin Aktaş. Bilgisayar mühendisliği öğrencisiyim ve yazılım
 ### 🛠️ Teknolojiler ve Araçlar:
 
 <div align="center">
-  
-  #### 💻 Programlama Dilleri
-  ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-  ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-  
-  #### 🌐 Web Teknolojileri
-  ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-  ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-  ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-  ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-  ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-  
-  #### ☁️ Cloud & DevOps
-  ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-  ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-  ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-  ![Azure](https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
-  
-  #### 🛢️ Veritabanları
-  ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-  ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-  
-  #### 🔧 IDE & Araçlar
-  ![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
-  ![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white)
-  ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+  <table>
+    <tr>
+      <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/csharp-icon.svg" alt="C#" width="65" height="65" />
+        <br>C#
+      </td>
+      <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/dotnet-icon.svg" alt=".NET" width="65" height="65" />
+        <br>.NET
+      </td>
+      <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="65" height="65" />
+        <br>JavaScript
+      </td>
+      <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="65" height="65" />
+        <br>Python
+      </td>
+      <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="65" height="65" />
+        <br>React
+      </td>
+    </tr>
+    <tr>
+      <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Docker" width="65" height="65" />
+        <br>Docker
+      </td>
+      <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/kubernetes-icon.svg" alt="Kubernetes" width="65" height="65" />
+        <br>Kubernetes
+      </td>
+      <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="AWS" width="65" height="65" />
+        <br>AWS
+      </td>
+      <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" width="65" height="65" />
+        <br>GitHub
+      </td>
+      <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/nginx-icon.svg" alt="Nginx" width="65" height="65" />
+        <br>Nginx
+      </td>
+    </tr>
+  </table>
+</div>
 
-  <br>
-  
-  #### 🏆 GitHub Başarıları
-  <img src="https://github-profile-trophy.vercel.app/?username=enginakts&theme=nord&column=7&no-frame=true&no-bg=true" />
+### 🏆 GitHub Başarıları:
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center">
+        <img src="https://github-profile-trophy-generator.vercel.app/trophy/commits?count=60&color=2ECC71" width="100" />
+        <br>
+        <strong style="color: #2ECC71">Commits Master</strong>
+        <br>60+ Commits
+      </td>
+      <td align="center">
+        <img src="https://github-profile-trophy-generator.vercel.app/trophy/repos?count=19&color=3498DB" width="100" />
+        <br>
+        <strong style="color: #3498DB">Repository Pro</strong>
+        <br>19+ Repos
+      </td>
+      <td align="center">
+        <img src="https://github-profile-trophy-generator.vercel.app/trophy/stars?count=1&color=F1C40F" width="100" />
+        <br>
+        <strong style="color: #F1C40F">First Star</strong>
+        <br>1+ Stars
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <img src="https://github-profile-trophy-generator.vercel.app/trophy/experience?count=2&color=9B59B6" width="100" />
+        <br>
+        <strong style="color: #9B59B6">Experience</strong>
+        <br>2+ Years
+      </td>
+      <td align="center">
+        <img src="https://github-profile-trophy-generator.vercel.app/trophy/followers?count=0&color=E74C3C" width="100" />
+        <br>
+        <strong style="color: #E74C3C">Followers</strong>
+        <br>Growing
+      </td>
+      <td align="center">
+        <img src="https://github-profile-trophy-generator.vercel.app/trophy/pr?count=0&color=1ABC9C" width="100" />
+        <br>
+        <strong style="color: #1ABC9C">Pull Requests</strong>
+        <br>Learning
+      </td>
+    </tr>
+  </table>
 </div>
 
 ---
