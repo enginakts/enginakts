@@ -192,30 +192,3 @@ Merhaba! Ben Engin Aktaş. Bilgisayar mühendisliği öğrencisiyim ve yazılım
   </a>
 </div>
 
----
-
-### 📈 Katkı Grafiği:
-
-[![Engin's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=enginakts&theme=react-dark&hide_border=true&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/enginakts/count.svg"/>
-</div>
-
-### 🔥 Commit Streak:
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=enginakts&theme=tokyonight&hide_border=true" />
-</div>
-
-### 📊 Contribution Stats:
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=enginakts&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
-</div>
-
-### 📈 Weekly Contribution Graph:
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=enginakts&theme=tokyo-night&hide_border=true&area=true" />
-</div>
