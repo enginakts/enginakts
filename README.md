@@ -93,24 +93,24 @@ Merhaba! Ben Engin Aktaş. Bilgisayar mühendisliği öğrencisiyim ve yazılım
 ### 🏆 GitHub Başarıları:
 
 <div align="center">
-  <table style="border: none;">
+  <table style="border: none; background: none;">
     <tr>
       <td align="center" width="200">
-        <img width="100" src="https://github.githubassets.com/images/modules/profile/achievements/starstruck-default.png" />
+        <img width="100" src="https://github.githubassets.com/images/modules/profile/achievements/quickdraw-default.png" />
         <br>
         <b>Commits Master</b>
         <br>
         <small>60+ Commits</small>
       </td>
       <td align="center" width="200">
-        <img width="100" src="https://github.githubassets.com/images/modules/profile/achievements/repository-default.png" />
+        <img width="100" src="https://github.githubassets.com/images/modules/profile/achievements/arctic-code-vault-contributor-default.png" />
         <br>
         <b>Repository Pro</b>
         <br>
         <small>19+ Repos</small>
       </td>
       <td align="center" width="200">
-        <img width="100" src="https://github.githubassets.com/images/modules/profile/achievements/stars-default.png" />
+        <img width="100" src="https://github.githubassets.com/images/modules/profile/achievements/starstruck-default.png" />
         <br>
         <b>First Star</b>
         <br>
@@ -126,7 +126,7 @@ Merhaba! Ben Engin Aktaş. Bilgisayar mühendisliği öğrencisiyim ve yazılım
         <small>2+ Years</small>
       </td>
       <td align="center">
-        <img width="100" src="https://github.githubassets.com/images/modules/profile/achievements/followers-default.png" />
+        <img width="100" src="https://github.githubassets.com/images/modules/profile/achievements/galaxy-brain-default.png" />
         <br>
         <b>Followers</b>
         <br>
