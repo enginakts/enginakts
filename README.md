@@ -205,17 +205,17 @@ Merhaba! Ben Engin Aktaş. Bilgisayar mühendisliği öğrencisiyim ve yazılım
 ### 🔥 Commit Streak:
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=enginakts&theme=tokyonight&hide_border=true&border_radius=10&date_format=j%20M%5B%20Y%5D&mode=weekly" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=enginakts&theme=tokyonight&hide_border=true" />
 </div>
 
 ### 📊 Contribution Stats:
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=enginakts&theme=radical&hide_border=true&background=0D1117&stroke=0D1117&fire=FF1CF7&sideLabels=00F0FF&currStreakNum=FF1CF7&ring=FF1CF7&currStreakLabel=FF1CF7&sideNums=00F0FF" alt="GitHub Streak Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=enginakts&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
 </div>
 
 ### 📈 Weekly Contribution Graph:
 
 <div align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=enginakts&custom_title=This%20Month%27s%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true" alt="Weekly Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=enginakts&theme=tokyo-night&hide_border=true&area=true" />
 </div>
