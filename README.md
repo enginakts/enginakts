@@ -93,45 +93,51 @@ Merhaba! Ben Engin Aktaş. Bilgisayar mühendisliği öğrencisiyim ve yazılım
 ### 🏆 GitHub Başarıları:
 
 <div align="center">
-  <table>
+  <table style="border: none;">
     <tr>
-      <td align="center">
-        <img src="https://github-profile-trophy-generator.vercel.app/trophy/commits?count=60&color=2ECC71" width="100" />
+      <td align="center" width="200">
+        <img width="100" src="https://github.githubassets.com/images/modules/profile/achievements/starstruck-default.png" />
         <br>
-        <strong style="color: #2ECC71">Commits Master</strong>
-        <br>60+ Commits
+        <b>Commits Master</b>
+        <br>
+        <small>60+ Commits</small>
       </td>
-      <td align="center">
-        <img src="https://github-profile-trophy-generator.vercel.app/trophy/repos?count=19&color=3498DB" width="100" />
+      <td align="center" width="200">
+        <img width="100" src="https://github.githubassets.com/images/modules/profile/achievements/repository-default.png" />
         <br>
-        <strong style="color: #3498DB">Repository Pro</strong>
-        <br>19+ Repos
+        <b>Repository Pro</b>
+        <br>
+        <small>19+ Repos</small>
       </td>
-      <td align="center">
-        <img src="https://github-profile-trophy-generator.vercel.app/trophy/stars?count=1&color=F1C40F" width="100" />
+      <td align="center" width="200">
+        <img width="100" src="https://github.githubassets.com/images/modules/profile/achievements/stars-default.png" />
         <br>
-        <strong style="color: #F1C40F">First Star</strong>
-        <br>1+ Stars
+        <b>First Star</b>
+        <br>
+        <small>1+ Stars</small>
       </td>
     </tr>
     <tr>
       <td align="center">
-        <img src="https://github-profile-trophy-generator.vercel.app/trophy/experience?count=2&color=9B59B6" width="100" />
+        <img width="100" src="https://github.githubassets.com/images/modules/profile/achievements/yolo-default.png" />
         <br>
-        <strong style="color: #9B59B6">Experience</strong>
-        <br>2+ Years
+        <b>Experience</b>
+        <br>
+        <small>2+ Years</small>
       </td>
       <td align="center">
-        <img src="https://github-profile-trophy-generator.vercel.app/trophy/followers?count=0&color=E74C3C" width="100" />
+        <img width="100" src="https://github.githubassets.com/images/modules/profile/achievements/followers-default.png" />
         <br>
-        <strong style="color: #E74C3C">Followers</strong>
-        <br>Growing
+        <b>Followers</b>
+        <br>
+        <small>Growing</small>
       </td>
       <td align="center">
-        <img src="https://github-profile-trophy-generator.vercel.app/trophy/pr?count=0&color=1ABC9C" width="100" />
+        <img width="100" src="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png" />
         <br>
-        <strong style="color: #1ABC9C">Pull Requests</strong>
-        <br>Learning
+        <b>Pull Requests</b>
+        <br>
+        <small>Learning</small>
       </td>
     </tr>
   </table>
