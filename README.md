@@ -148,16 +148,25 @@ Merhaba! Ben Engin Aktaş. Bilgisayar mühendisliği öğrencisiyim ve yazılım
 ### 📊 GitHub İstatistiklerim:
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=enginakts&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=enginakts&layout=compact&langs_count=8&theme=algolia"/>
+  <!-- My GitHub Stats Card -->
+  <div style="display: inline-block; margin-right: 10px;">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=enginakts&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  </div>
+  
+  <!-- Programming Languages Card -->
+  <div style="display: inline-block;">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=enginakts&layout=compact&langs_count=8&theme=algolia"/>
+  </div>
 </div>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=enginakts&theme=algolia&hide_border=false" />
-</div>
-
+<!-- Contribution Graph -->
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=enginakts&theme=github_dark" />
+</div>
+
+<!-- Activity Graph -->
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=enginakts&theme=react-dark&hide_border=true&area=true" />
 </div>
 
 ---
