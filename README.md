@@ -52,8 +52,16 @@ Merhaba! Ben Engin Aktaş. Bilgisayar mühendisliği öğrencisiyim ve yazılım
 ### 📊 GitHub İstatistiklerim:
 
 <div align="center">
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=enginakts&show_icons=true&count_private=true&hide_border=true&title_color=00b3ff&icon_color=00b4ff&text_color=c9d1d9&bg_color=0d1117" alt="Engin Aktaş GitHub Stats" /> 
-  <img width="49%" height="195px" src="https://github-readme-streak-stats.herokuapp.com/?user=enginakts&theme=transparent&hide_border=true&stroke=00b3ff&ring=00b3ff&fire=00b3ff&currStreakNum=00b3ff&sideNums=00b3ff&currStreakLabel=00b3ff&sideLabels=00b3ff&dates=ffffff&background=0D1117" />
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=enginakts&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=enginakts&layout=compact&langs_count=8&theme=algolia"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=enginakts&theme=algolia&hide_border=false" />
+</div>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=enginakts&theme=github_dark" />
 </div>
 
 ---
