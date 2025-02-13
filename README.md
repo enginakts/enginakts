@@ -42,14 +42,14 @@ Merhaba! Ben Engin Aktaş. Bilgisayar mühendisliği öğrencisiyim ve yazılım
 ### 🛠️ Teknolojiler ve Araçlar:
 
 <div align="center">
-  <table>
+  <table style="border: none; background: none;">
     <tr>
       <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/csharp-icon.svg" alt="C#" width="65" height="65" />
         <br>C#
       </td>
       <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/dotnet-icon.svg" alt=".NET" width="65" height="65" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" alt=".NET" width="65" height="65" />
         <br>.NET
       </td>
       <td align="center" width="96">
@@ -83,7 +83,7 @@ Merhaba! Ben Engin Aktaş. Bilgisayar mühendisliği öğrencisiyim ve yazılım
         <br>GitHub
       </td>
       <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/nginx-icon.svg" alt="Nginx" width="65" height="65" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" alt="Nginx" width="65" height="65" />
         <br>Nginx
       </td>
     </tr>
