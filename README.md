@@ -19,7 +19,7 @@
 </h3>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=your-github-username&style=flat-square&color=blue" alt=""/>
+  <img src="https://komarev.com/ghpvc/?username=enginakts&style=flat-square&color=blue" alt=""/>
 </div>
 
 <div align="center">
@@ -42,93 +42,58 @@ Merhaba! Ben Engin Aktaş. Bilgisayar mühendisliği öğrencisiyim ve yazılım
 ### 🛠 Teknolojiler ve Araçlar:
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=cs,dotnet,js,html,css,python,tensorflow,git,docker,kubernetes,azure,aws,react,nodejs,mongodb,mysql" />
-</div>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=enginakts&theme=tokyonight&no-frame=true&row=1&&margin-w=30&no-bg=true" />
-</div>
-
----
-
-###  İstatistiklerim:
-
-<!-- GitHub Stats Card -->
-<div align="center">
-  <table>
-    <tr>
-      <td>
-        <img width="400" src="https://github-readme-stats.vercel.app/api?username=enginakts&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" alt="GitHub Stats"/>
-      </td>
-      <td>
-        <img width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=enginakts&theme=github-dark-blue&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=58A6FF&currStreakNum=C9D1D9&sideNums=C9D1D9&currStreakLabel=C9D1D9&sideLabels=C9D1D9&dates=C9D1D9" alt="GitHub Streak"/>
-      </td>
-    </tr>
-  </table>
-
-  <!-- Most Used Languages -->
-  <img width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=enginakts&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&langs_count=8" alt="Most Used Languages"/>
-  
-  <!-- GitHub Activity Graph -->
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=enginakts&theme=github-dark&hide_border=true&bg_color=0D1117&color=58A6FF&line=58A6FF&point=C9D1D9&area=true" alt="Contribution Graph"/>
-  
-  <!-- Snake Animation -->
-  <picture>
-    <source
-      media="(prefers-color-scheme: dark)"
-      srcset="https://raw.githubusercontent.com/enginakts/enginakts/output/github-contribution-grid-snake-dark.svg"
-    />
-    <source
-      media="(prefers-color-scheme: light)"
-      srcset="https://raw.githubusercontent.com/enginakts/enginakts/output/github-contribution-grid-snake.svg"
-    />
-    <img
-      alt="github contribution grid snake animation"
-      src="https://raw.githubusercontent.com/enginakts/enginakts/output/github-contribution-grid-snake.svg"
-    />
-  </picture>
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,js,html,css,python,tensorflow,git,docker,kubernetes,azure,aws,react,nodejs,mongodb,mysql,vscode,visualstudio" />
+  <br><br>
+  <img src="https://github-profile-trophy.vercel.app/?username=enginakts&theme=nord&column=7&no-frame=true&no-bg=true" />
 </div>
 
 ---
 
-### 🚀 Projelerim:
+### 📊 GitHub İstatistiklerim:
 
 <div align="center">
-  <a href="your-project-1-link">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=enginakts&repo=your-repository-1&theme=tokyonight&hide_border=true" />
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=enginakts&show_icons=true&count_private=true&hide_border=true&title_color=00b3ff&icon_color=00b4ff&text_color=c9d1d9&bg_color=0d1117" alt="Engin Aktaş GitHub Stats" /> 
+  <img width="49%" height="195px" src="https://github-readme-streak-stats.herokuapp.com/?user=enginakts&theme=transparent&hide_border=true&stroke=00b3ff&ring=00b3ff&fire=00b3ff&currStreakNum=00b3ff&sideNums=00b3ff&currStreakLabel=00b3ff&sideLabels=00b3ff&dates=ffffff&background=0D1117" />
+</div>
+
+---
+
+### 🚀 Öne Çıkan Projelerim:
+
+<div align="center">
+  <a href="https://github.com/enginakts/project-1">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=enginakts&repo=project-1&theme=tokyonight&hide_border=true" />
   </a>
-  <a href="your-project-2-link">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=enginakts&repo=your-repository-2&theme=tokyonight&hide_border=true" />
+  <a href="https://github.com/enginakts/project-2">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=enginakts&repo=project-2&theme=tokyonight&hide_border=true" />
   </a>
 </div>
 
 ---
 
-### 📫 İletişim:
+### 📫 Benimle İletişime Geçin:
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/enginakt-s/">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <a href="https://www.linkedin.com/in/enginakt-s" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
   </a>
   <a href="mailto:enginakt21@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
-  <a href="your-twitter-url">
-    <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"/>
+  <a href="https://twitter.com/enginakts" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank">
   </a>
-  <a href="your-medium-url">
-    <img src="https://img.shields.io/badge/Medium-%23000000.svg?style=for-the-badge&logo=Medium&logoColor=white"/>
+  <a href="https://medium.com/@enginakts" target="_blank">
+    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" target="_blank">
   </a>
 </div>
 
 ---
 
-### 🎯 Aktivite Grafiği:
+### 📈 Katkı Grafiği:
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=your-github-username&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
----
+[![Engin's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=enginakts&theme=react-dark&hide_border=true&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <div align="center">
-  <img src="https://profile-counter.glitch.me/your-github-username/count.svg"/>
+  <img src="https://profile-counter.glitch.me/enginakts/count.svg"/>
 </div>
