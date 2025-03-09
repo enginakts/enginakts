@@ -162,19 +162,6 @@ Merhaba! Ben Engin Aktaş. Bilgisayar mühendisliği öğrencisiyim ve yazılım
 
 ---
 
-### 🚀 Öne Çıkan Projelerim:
-
-<div align="center">
-  <a href="https://github.com/enginakts/project-1">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=enginakts&repo=project-1&theme=tokyonight&hide_border=true" />
-  </a>
-  <a href="https://github.com/enginakts/project-2">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=enginakts&repo=project-2&theme=tokyonight&hide_border=true" />
-  </a>
-</div>
-
----
-
 ### 📫 Benimle İletişime Geçin:
 
 <div align="center">
