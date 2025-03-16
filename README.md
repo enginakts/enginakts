@@ -1,113 +1,187 @@
+<div align="center">
+  <img src="https://raw.githubusercontent.com/gist/patevs/b007a0e98fb216438d4cbf559fac4166/raw/88f20c9d749d756be63f22b09f3c4ac570bc5101/programming.gif" width="500"/>
+</div>
+
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Merhaba!+👋;Ben+Ömer+Emre+Eser!;" />
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+  Merhaba, Ben Engin Aktaş
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
-<h3 align="center">Adıyaman Üniversitesi'nde Bilgisayar Mühendisliği öğrencisi ve Siber Güvenlik Meraklısı 🔒</h3>
-
-<br/>
-
-<div align="center">
- 
- 🔭 Şu anda **Siber Güvenlik** alanında kendimi geliştiriyorum
- 
- 🌱 **Penetrasyon Testleri** ve **Ağ Güvenliği** konularında çalışıyorum
-
- 💬 Bana **Siber Güvenlik** ve **Bilgisayar Mühendisliği** hakkında sorular sorabilirsiniz
-
- </div>
- 
-<div align="center"> 
-  <a href="mailto:omeremreeser@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2C9DF7&center=true&vCenter=true&width=435&lines=Bilgisayar+M%C3%BChendisli%C4%9Fi+%C3%96%C4%9Frencisi;Yaz%C4%B1l%C4%B1m+Geli%C5%9Ftirici;AI+Merakl%C4%B1s%C4%B1" alt="Typing SVG" />
   </a>
-  <a href="https://linkedin.com/in/omeremreeser" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</p>
+
+<h3 align="center">
+  Bilgisayar Mühendisliği Öğrencisi | Yazılım Geliştirici | AI Meraklısı
+</h3>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=enginakts&style=flat-square&color=blue" alt=""/>
+</div>
+
+<div align="center">
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="400" height="200"/>
+</div>
+
+---
+
+### 👨‍💻 Hakkımda:
+
+Merhaba! Ben Engin Aktaş. Bilgisayar mühendisliği öğrencisiyim ve yazılım geliştirme tutkusuyla çalışıyorum.
+
+- 🎓 Bilgisayar Mühendisliği eğitimime devam ediyorum
+- 🌱 ASP.NET Core, Yapay Zeka ve Derin Öğrenme alanlarında kendimi geliştiriyorum
+- ⚡ Web teknolojileri ve makine öğrenmesi projelerinde aktif olarak çalışıyorum
+- 📫 Benimle iletişime geçmek için: [![Linkedin Badge](https://img.shields.io/badge/-EnginAktaş-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/enginakt-s/)
+
+---
+
+### 🛠️ Teknolojiler ve Araçlar:
+
+<div align="center">
+  <table style="border: none; background: none;">
+    <tr>
+      <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/csharp-icon.svg" alt="C#" width="65" height="65" />
+        <br>C#
+      </td>
+      <td align="center" width="96">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" alt=".NET" width="65" height="65" />
+        <br>.NET
+      </td>
+      <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="65" height="65" />
+        <br>JavaScript
+      </td>
+      <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="65" height="65" />
+        <br>Python
+      </td>
+      <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="65" height="65" />
+        <br>React
+      </td>
+    </tr>
+    <tr>
+      <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Docker" width="65" height="65" />
+        <br>Docker
+      </td>
+      <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/kubernetes-icon.svg" alt="Kubernetes" width="65" height="65" />
+        <br>Kubernetes
+      </td>
+      <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="AWS" width="65" height="65" />
+        <br>AWS
+      </td>
+      <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" width="65" height="65" />
+        <br>GitHub
+      </td>
+      <td align="center" width="96">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" alt="Nginx" width="65" height="65" />
+        <br>Nginx
+      </td>
+    </tr>
+  </table>
+</div>
+
+### 🏆 GitHub Başarıları:
+
+<div align="center">
+  <table style="border: none; background: none;">
+    <tr>
+      <td align="center" width="200">
+        <img width="100" src="https://github.githubassets.com/images/modules/profile/achievements/quickdraw-default.png" />
+        <br>
+        <b>Commits Master</b>
+        <br>
+        <small>60+ Commits</small>
+      </td>
+      <td align="center" width="200">
+        <img width="100" src="https://github.githubassets.com/images/modules/profile/achievements/arctic-code-vault-contributor-default.png" />
+        <br>
+        <b>Repository Pro</b>
+        <br>
+        <small>19+ Repos</small>
+      </td>
+      <td align="center" width="200">
+        <img width="100" src="https://github.githubassets.com/images/modules/profile/achievements/starstruck-default.png" />
+        <br>
+        <b>First Star</b>
+        <br>
+        <small>1+ Stars</small>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <img width="100" src="https://github.githubassets.com/images/modules/profile/achievements/yolo-default.png" />
+        <br>
+        <b>Experience</b>
+        <br>
+        <small>2+ Years</small>
+      </td>
+      <td align="center">
+        <img width="100" src="https://github.githubassets.com/images/modules/profile/achievements/galaxy-brain-default.png" />
+        <br>
+        <b>Followers</b>
+        <br>
+        <small>Growing</small>
+      </td>
+      <td align="center">
+        <img width="100" src="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png" />
+        <br>
+        <b>Pull Requests</b>
+        <br>
+        <small>Learning</small>
+      </td>
+    </tr>
+  </table>
+</div>
+
+---
+
+### 📊 GitHub İstatistiklerim:
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=enginakts&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=enginakts&layout=compact&langs_count=8&theme=algolia"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=enginakts&theme=algolia&hide_border=false" />
+</div>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=enginakts&theme=github_dark" />
+</div>
+
+---
+
+### 📫 Benimle İletişime Geçin:
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/enginakt-s" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
   </a>
-  <a href="https://github.com/omeremreeser" target="_blank">
-     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" /> 
+  <a href="mailto:enginakt21@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
-</div>
-
-<hr/>
- 
-<h2 align="center">⚒️ Yetenekler & Araçlar ⚒️</h2>
-<br/>
-
-<div align="center">
-    <h3>👨‍💻 Programlama & Scripting Dilleri</h3>
-    <p align="center">
-        <a href="https://skillicons.dev">
-            <img src="https://skillicons.dev/icons?i=python,c,cpp,bash" />
-        </a>
-    </p>
-    <br/>
-    
-    <h3>🛡️ Siber Güvenlik Araçları</h3>
-    <p align="center">
-        <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Metasploit-E34F26?style=for-the-badge&logo=metasploit&logoColor=white"/>
-        <br/>
-        <img src="https://img.shields.io/badge/Nmap-2C2D72?style=for-the-badge&logo=nmap&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Burp_Suite-FF6B6B?style=for-the-badge&logo=burp-suite&logoColor=white"/>
-    </p>
-    <br/>
-    
-    <h3>🔧 Geliştirme Araçları & Ortamlar</h3>
-    <p align="center">
-        <a href="https://skillicons.dev">
-            <img src="https://skillicons.dev/icons?i=linux,vim,vscode,github,git" />
-        </a>
-    </p>
-    <br/>
-    
-    <h3>🌐 Web Teknolojileri</h3>
-    <p align="center">
-        <a href="https://skillicons.dev">
-            <img src="https://skillicons.dev/icons?i=nodejs,javascript,typescript,mongodb" />
-        </a>
-    </p>
-</div>
-
-<br/>
-
-<div align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=omeremreeser&layout=compact&theme=react&hide=html,css" alt="Top Languages" />
-</div>
-
-<br/>
-
-<div align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=omeremreeser&theme=radical&no-frame=true&no-bg=true&row=1&column=7" width="100%" alt="Trophy" align="middle" />
-</div>
-
-<hr/>
-
-<h2 align="center">🐍 Katkı Grafiğim 🐍</h2>
-<br>
-<img alt="snake eating my contributions" src="https://raw.githubusercontent.com/omeremreeser/omeremreeser/output/github-contribution-grid-snake.svg" />
   
-<br/><br/><br/>
-
-<hr/>
-
-<h2 align="center">⚡ İstatistikler ⚡</h2>
-<br>
-<div align=center>
-  <img width=390 src="https://streak-stats.demolab.com/?user=omeremreeser&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
-  <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=omeremreeser&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
-  <br/>
-  <img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=omeremreeser&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+  
 </div>
 
-<br/><br/>
+---
 
-<hr/>
+### 📈 Katkı Grafiği:
 
-<br/>
+[![Engin's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=enginakts&theme=react-dark&hide_border=true&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <div align="center">
-<a href='https://ko-fi.com/omeremreeser' target='_blank'><img height='64' style='border:0px;height:64px;' src='https://storage.ko-fi.com/cdn/kofi1.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
+  <img src="https://profile-counter.glitch.me/enginakts/count.svg"/>
 </div>
 
-<br/> 
