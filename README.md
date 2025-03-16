@@ -30,23 +30,66 @@
 
 <hr/>
  
-<h2 align="center">⚒️ Diller-Frameworks-Tools ⚒️</h2>
+<h2 align="center">⚒️ Yetenekler & Araçlar ⚒️</h2>
 <br/>
+
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=python,linux,bash,vim,vscode,github,git" />
-    <img src="https://skillicons.dev/icons?i=nodejs,javascript,typescript,mongodb,c,cpp" /><br>
+    <details open>
+        <summary><h3>👨‍💻 Programlama & Scripting Dilleri</h3></summary>
+        <br/>
+        <p align="center">
+            <a href="https://skillicons.dev">
+                <img src="https://skillicons.dev/icons?i=python,c,cpp,bash" />
+            </a>
+            <br/>
+            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=omeremreeser&layout=compact&theme=react&hide=html,css" alt="Top Languages" />
+        </p>
+    </details>
+
+    <details open>
+        <summary><h3>🛡️ Siber Güvenlik Araçları</h3></summary>
+        <br/>
+        <p align="center">
+            <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white"/>
+            <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white"/>
+            <img src="https://img.shields.io/badge/Metasploit-E34F26?style=for-the-badge&logo=metasploit&logoColor=white"/>
+            <img src="https://img.shields.io/badge/Nmap-2C2D72?style=for-the-badge&logo=nmap&logoColor=white"/>
+            <img src="https://img.shields.io/badge/Burp_Suite-FF6B6B?style=for-the-badge&logo=burp-suite&logoColor=white"/>
+        </p>
+    </details>
+
+    <details open>
+        <summary><h3>🔧 Geliştirme Araçları & Ortamlar</h3></summary>
+        <br/>
+        <p align="center">
+            <a href="https://skillicons.dev">
+                <img src="https://skillicons.dev/icons?i=linux,vim,vscode,github,git" />
+            </a>
+        </p>
+    </details>
+
+    <details open>
+        <summary><h3>🌐 Web Teknolojileri</h3></summary>
+        <br/>
+        <p align="center">
+            <a href="https://skillicons.dev">
+                <img src="https://skillicons.dev/icons?i=nodejs,javascript,typescript,mongodb" />
+            </a>
+        </p>
+    </details>
 </div>
 
-<br/>
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=omeremreeser&theme=radical&no-frame=true&no-bg=true&row=1&column=7" width="100%" alt="Trophy" align="middle" /> <br><br>
+</div>
+
 <hr/>
 
-<div align="center">
-  <h2>🐍 Katkı Grafiğim 🐍</h2>
-  <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/omeremreeser/omeremreeser/output/github-contribution-grid-snake.svg" />
+<h2 align="center">🐍 Katkı Grafiğim 🐍</h2>
+<br>
+<img alt="snake eating my contributions" src="https://raw.githubusercontent.com/omeremreeser/omeremreeser/output/github-contribution-grid-snake.svg" />
   
-  <br/><br/><br/>
-</div>
+<br/><br/><br/>
 
 <hr/>
 
