@@ -1,16 +1,22 @@
-<div align="center">
-  <img src="https://raw.githubusercontent.com/gist/patevs/b007a0e98fb216438d4cbf559fac4166/raw/88f20c9d749d756be63f22b09f3c4ac570bc5101/programming.gif" width="500"/>
-</div>
+<div style="position: relative;">
+  <div style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; z-index: 0; pointer-events: none; overflow: hidden;">
+    <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcnJidnlhOXJ3anM3cm5rOXZhMHNiZHdkaW15N2R6dWVvN3diMmFlMCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/RF9WyGuttvnNe/giphy.gif" style="width: 100%; height: auto; min-height: 100%; opacity: 0.25;" />
+  </div>
+  
+  <div style="position: relative; z-index: 1;">
+    <div align="center">
+      <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExc2UzNGV0NGhwYWxhc3B2cXViaW9uZzgwaDIwdWRkbDNyaXJidTV0ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/OLPQ6z2hlHmwFc4Hso/giphy.gif" width="400" height="200"/>
+    </div>
 
 <h1 align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px"/>
   Merhaba, Ben Engin Aktaş
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px"/>
 </h1>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2C9DF7&center=true&vCenter=true&width=435&lines=Bilgisayar+M%C3%BChendisli%C4%9Fi+%C3%96%C4%9Frencisi;Yaz%C4%B1l%C4%B1m+Geli%C5%9Ftirici;AI+Merakl%C4%B1s%C4%B1" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=1a1a1a&center=true&vCenter=true&width=435&lines=Bilgisayar+M%C3%BChendisli%C4%9Fi+%C3%96%C4%9Frencisi;Yaz%C4%B1l%C4%B1m+Geli%C5%9Ftirici;AI+Merakl%C4%B1s%C4%B1" alt="Typing SVG" />
   </a>
 </p>
 
@@ -19,11 +25,11 @@
 </h3>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=enginakts&style=flat-square&color=blue" alt=""/>
+  <img src="https://komarev.com/ghpvc/?username=enginakts&style=flat-square&color=000000" alt=""/>
 </div>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="400" height="200"/>
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzJiZnZuM2I0czN4OTBlYnNmeDZnaDZuajdjOHIxYXI5NHRjcTZpdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/HCGezGpvQtDr93jr1T/giphy.gif" width="400" height="200"/>
 </div>
 
 ---
@@ -35,56 +41,56 @@ Merhaba! Ben Engin Aktaş. Bilgisayar mühendisliği öğrencisiyim ve yazılım
 - 🎓 Bilgisayar Mühendisliği eğitimime devam ediyorum
 - 🌱 ASP.NET Core, Yapay Zeka ve Derin Öğrenme alanlarında kendimi geliştiriyorum
 - ⚡ Web teknolojileri ve makine öğrenmesi projelerinde aktif olarak çalışıyorum
-- 📫 Benimle iletişime geçmek için: [![Linkedin Badge](https://img.shields.io/badge/-EnginAktaş-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/enginakt-s/)
+- 📫 Benimle iletişime geçmek için: [![Linkedin Badge](https://img.shields.io/badge/-EnginAktaş-000000?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/enginakt-s/)
 
 ---
 
 ### 🛠️ Teknolojiler ve Araçlar:
 
 <div align="center">
-  <table style="border: none; background: none;">
+  <table style="border: none; background: #000000; border-radius: 10px; padding: 20px;">
     <tr>
       <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/csharp-icon.svg" alt="C#" width="65" height="65" />
-        <br>C#
+        <img src="https://techstack-generator.vercel.app/csharp-icon.svg" alt="C#" width="65" height="65" style="filter: brightness(0.7) contrast(1.2);" />
+        <br><span style="color: #ffffff;">C#</span>
       </td>
       <td align="center" width="96">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" alt=".NET" width="65" height="65" />
-        <br>.NET
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" alt=".NET" width="65" height="65" style="filter: brightness(0.7) contrast(1.2);" />
+        <br><span style="color: #ffffff;">.NET</span>
       </td>
       <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="65" height="65" />
-        <br>JavaScript
+        <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="65" height="65" style="filter: brightness(0.7) contrast(1.2);" />
+        <br><span style="color: #ffffff;">JavaScript</span>
       </td>
       <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="65" height="65" />
-        <br>Python
+        <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="65" height="65" style="filter: brightness(0.7) contrast(1.2);" />
+        <br><span style="color: #ffffff;">Python</span>
       </td>
       <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="65" height="65" />
-        <br>React
+        <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="65" height="65" style="filter: brightness(0.7) contrast(1.2);" />
+        <br><span style="color: #ffffff;">React</span>
       </td>
     </tr>
     <tr>
       <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Docker" width="65" height="65" />
-        <br>Docker
+        <img src="https://media.giphy.com/media/3o7aCTPPm4OHfRLSH6/giphy.gif" alt="ML" width="65" height="65" style="filter: brightness(0.8) contrast(1.2);" />
+        <br><span style="color: #ffffff;">ML</span>
       </td>
       <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/kubernetes-icon.svg" alt="Kubernetes" width="65" height="65" />
-        <br>Kubernetes
+        <img src="https://media.giphy.com/media/l0MYC0Lajs9W9GLi8/giphy.gif" alt="LLM" width="65" height="65" style="filter: brightness(0.8) contrast(1.2);" />
+        <br><span style="color: #ffffff;">LLM</span>
       </td>
       <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="AWS" width="65" height="65" />
-        <br>AWS
+        <img src="https://media.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif" alt="Frontend" width="65" height="65" style="filter: brightness(0.8) contrast(1.2);" />
+        <br><span style="color: #ffffff;">Frontend</span>
       </td>
       <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" width="65" height="65" />
-        <br>GitHub
+        <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" alt="Backend" width="65" height="65" style="filter: brightness(0.8) contrast(1.2);" />
+        <br><span style="color: #ffffff;">Backend</span>
       </td>
       <td align="center" width="96">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" alt="Nginx" width="65" height="65" />
-        <br>Nginx
+        <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" alt="GitHub" width="65" height="65" style="filter: brightness(0.8) contrast(1.2);" />
+        <br><span style="color: #ffffff;">GitHub</span>
       </td>
     </tr>
   </table>
@@ -93,51 +99,51 @@ Merhaba! Ben Engin Aktaş. Bilgisayar mühendisliği öğrencisiyim ve yazılım
 ### 🏆 GitHub Başarıları:
 
 <div align="center">
-  <table style="border: none; background: none;">
+  <table style="border: none; background: #000000; border-radius: 10px; padding: 20px;">
     <tr>
       <td align="center" width="200">
-        <img width="100" src="https://github.githubassets.com/images/modules/profile/achievements/quickdraw-default.png" />
+        <img width="100" src="https://github.githubassets.com/images/modules/profile/achievements/quickdraw-default.png" style="filter: brightness(0.8) contrast(1.1);" />
         <br>
-        <b>Commits Master</b>
+        <b style="color: #ffffff;">Commits Master</b>
         <br>
-        <small>60+ Commits</small>
+        <small style="color: #cccccc;">60+ Commits</small>
       </td>
       <td align="center" width="200">
-        <img width="100" src="https://github.githubassets.com/images/modules/profile/achievements/arctic-code-vault-contributor-default.png" />
+        <img width="100" src="https://github.githubassets.com/images/modules/profile/achievements/arctic-code-vault-contributor-default.png" style="filter: brightness(0.8) contrast(1.1);" />
         <br>
-        <b>Repository Pro</b>
+        <b style="color: #ffffff;">Repository Pro</b>
         <br>
-        <small>19+ Repos</small>
+        <small style="color: #cccccc;">19+ Repos</small>
       </td>
       <td align="center" width="200">
-        <img width="100" src="https://github.githubassets.com/images/modules/profile/achievements/starstruck-default.png" />
+        <img width="100" src="https://github.githubassets.com/images/modules/profile/achievements/starstruck-default.png" style="filter: brightness(0.8) contrast(1.1);" />
         <br>
-        <b>First Star</b>
+        <b style="color: #ffffff;">First Star</b>
         <br>
-        <small>1+ Stars</small>
+        <small style="color: #cccccc;">1+ Stars</small>
       </td>
     </tr>
     <tr>
       <td align="center">
-        <img width="100" src="https://github.githubassets.com/images/modules/profile/achievements/yolo-default.png" />
+        <img width="100" src="https://github.githubassets.com/images/modules/profile/achievements/yolo-default.png" style="filter: brightness(0.8) contrast(1.1);" />
         <br>
-        <b>Experience</b>
+        <b style="color: #ffffff;">Experience</b>
         <br>
-        <small>2+ Years</small>
+        <small style="color: #cccccc;">2+ Years</small>
       </td>
       <td align="center">
-        <img width="100" src="https://github.githubassets.com/images/modules/profile/achievements/galaxy-brain-default.png" />
+        <img width="100" src="https://github.githubassets.com/images/modules/profile/achievements/galaxy-brain-default.png" style="filter: brightness(0.8) contrast(1.1);" />
         <br>
-        <b>Followers</b>
+        <b style="color: #ffffff;">Followers</b>
         <br>
-        <small>Growing</small>
+        <small style="color: #cccccc;">Growing</small>
       </td>
       <td align="center">
-        <img width="100" src="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png" />
+        <img width="100" src="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png" style="filter: brightness(0.8) contrast(1.1);" />
         <br>
-        <b>Pull Requests</b>
+        <b style="color: #ffffff;">Pull Requests</b>
         <br>
-        <small>Learning</small>
+        <small style="color: #cccccc;">Learning</small>
       </td>
     </tr>
   </table>
@@ -148,12 +154,12 @@ Merhaba! Ben Engin Aktaş. Bilgisayar mühendisliği öğrencisiyim ve yazılım
 ### 📊 GitHub İstatistiklerim:
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=enginakts&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=enginakts&layout=compact&langs_count=8&theme=algolia"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=enginakts&show_icons=true&theme=dark&include_all_commits=true&count_private=true&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff&border_color=1a1a1a"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=enginakts&layout=compact&langs_count=8&theme=dark&bg_color=000000&title_color=ffffff&text_color=ffffff&border_color=1a1a1a"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=enginakts&theme=algolia&hide_border=false" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=enginakts&theme=dark&hide_border=false&background=000000&ring=ffffff&fire=ffffff&currStreakLabel=ffffff" />
 </div>
 
 <div align="center">
@@ -166,10 +172,10 @@ Merhaba! Ben Engin Aktaş. Bilgisayar mühendisliği öğrencisiyim ve yazılım
 
 <div align="center">
   <a href="https://www.linkedin.com/in/enginakt-s" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
   </a>
   <a href="mailto:enginakt21@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+    <img src="https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
   
   
@@ -179,9 +185,11 @@ Merhaba! Ben Engin Aktaş. Bilgisayar mühendisliği öğrencisiyim ve yazılım
 
 ### 📈 Katkı Grafiği:
 
-[![Engin's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=enginakts&theme=react-dark&hide_border=true&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Engin's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=enginakts&theme=black&hide_border=true&area=true&bg_color=000000&color=ffffff&line=ffffff&point=ffffff)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <div align="center">
   <img src="https://profile-counter.glitch.me/enginakts/count.svg"/>
+</div>
+  </div>
 </div>
 
