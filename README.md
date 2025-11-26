@@ -13,12 +13,12 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00FF41&center=true&vCenter=true&width=435&lines=Bilgisayar+M%C3%BChendisli%C4%9Fi+%C3%96%C4%9Frencisi;Yaz%C4%B1l%C4%B1m+Geli%C5%9Ftirici;AI+Merakl%C4%B1s%C4%B1" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00FF41&center=true&vCenter=true&width=435&lines=Bilgisayar+M%C3%BChendisli%C4%9Fi;Yaz%C4%B1l%C4%B1m+Geli%C5%9Ftirici;AI+Merakl%C4%B1s%C4%B1" alt="Typing SVG" />
   </a>
 </p>
 
 <h3 align="center">
-  Bilgisayar Mühendisliği Öğrencisi | Yazılım Geliştirici | AI Meraklısı
+  Bilgisayar Mühendisliği | Yazılım Geliştirici | AI Meraklısı
 </h3>
 
 <div align="center">
