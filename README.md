@@ -22,9 +22,6 @@
   <img src="https://komarev.com/ghpvc/?username=enginakts&style=flat-square&color=00FF41" alt=""/>
 </div>
 
-<div align="center">
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzJiZnZuM2I0czN4OTBlYnNmeDZnaDZuajdjOHIxYXI5NHRjcTZpdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/HCGezGpvQtDr93jr1T/giphy.gif" width="400" height="200"/>
-</div>
 
 ---
 
