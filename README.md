@@ -20,7 +20,7 @@
 
 ### 👨‍💻 Hakkımda
 
-Selamlar cano! 👋 Klavyenin başına geçip *"bunu kesin bir satır kodla çözeriz"* dediğim ilk günden beri buralardayım... 😉
+Selamlar ! 👋 Klavyenin başına geçip *"bunu kesin bir satır kodla çözeriz"* dediğim ilk günden beri buralardayım... 😉
 
 Burası benim dijital kilerim, garajım, atölyem gibi bir yer. Sağda solda kurcaladığım projeler, gece yarısı gelen *"ya acaba şunu AI ile bağlasak ne olur"* fikirleri, Teknofest'ten hackathon'lara koşturduğum maceralar ve *"bir ara kesin işe yarar"* diyerek attığım açık kaynak hazinelerle dolu bir hangar. 
 
