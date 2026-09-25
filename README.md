@@ -50,15 +50,12 @@ Bir sorun varsa, parlak bir proje fikrin ya da sadece *"hocam şu bug beni bitir
 
 ---
 
-### 🐍 Katkı Yılanı (Snake Animation)
+### 🐍 Katkı Yılanı 
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/enginakts/enginakts/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/enginakts/enginakts/output/github-contribution-grid-snake.svg">
-    <img src="https://raw.githubusercontent.com/enginakts/enginakts/output/github-contribution-grid-snake-dark.svg" width="100%" />
-  </picture>
+  <img src="https://raw.githubusercontent.com/enginakts/enginakts/main/snake.svg" width="100%" alt="Snake Animation" />
 </div>
+
 
 ---
 
