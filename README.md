@@ -1,7 +1,11 @@
 <div align="center">
 
 <!-- Header Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,100:06B6D4&height=180&section=header&text=Engin%20Akta%C5%9F&fontSize=42&fontAlignY=38&animation=fadeIn&fontColor=white&desc=Software%20Developer%20%7C%20AI%20%26%20Data%20Enthusiast&descAlignY=62&descSize=16" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,100:06B6D4&height=180&section=header&text=Engin%20Aktas&fontSize=42&fontAlignY=38&animation=fadeIn&fontColor=ffffff&desc=Software%20Developer%20%C2%B7%20AI%20and%20Data%20Enthusiast&descAlignY=62&descSize=16" width="100%" />
+
+<!-- Animated Typing Tagline -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2500&pause=800&color=A78BFA&center=true&vCenter=true&width=620&lines=Full+Stack+Developer+%C2%B7+AI+Enthusiast;.NET+%2B+CSharp+Developer;Building+Modern+Web+and+Cloud+Apps;Hackathons+and+AI+Projects;Turning+Coffee+into+Clean+Code" />
+
 
 <!-- Animated Typing Tagline -->
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2500&pause=800&color=A78BFA&center=true&vCenter=true&width=620&lines=.NET+%26+C%23+Developer+%7C+Python+%26+AI+Explorer;Building+Modern+Web+%26+Cloud+Solutions;Hackathons+%26+Data+Challenges;Turning+Coffee+into+Clean+Code+%E2%9C%A8" />
