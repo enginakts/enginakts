@@ -54,8 +54,6 @@ Bir sorun varsa, parlak bir proje fikrin ya da sadece *"hocam şu bug beni bitir
 
 ---
 
-### 🐍 Katkı Yılanı 
-
 <div align="center">
   <img src="https://raw.githubusercontent.com/enginakts/enginakts/main/snake.svg" width="100%" alt="Snake Animation" />
 </div>
@@ -67,7 +65,6 @@ Bir sorun varsa, parlak bir proje fikrin ya da sadece *"hocam şu bug beni bitir
 
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=enginakts&theme=tokyonight" width="100%" />
-  <img src="https://raw.githubusercontent.com/enginakts/enginakts/main/profile-3d-contrib/profile-night-rainbow.svg" width="100%" />
 </div>
 
 ---
