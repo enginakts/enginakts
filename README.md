@@ -72,7 +72,4 @@ Bir sorun varsa, parlak bir proje fikrin ya da sadece *"hocam şu bug beni bitir
 
 ---
 
-<!-- Footer Wave -->
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,50:4E7FD4,100:06B6D4&height=120&section=footer&animation=twinkling" width="100%"/>
-</div>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,50:4E7FD4,100:06B6D4&height=120&section=footer&animation=twinkling" width="100%"/>
